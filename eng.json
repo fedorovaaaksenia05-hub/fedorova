@@ -1,0 +1,10 @@
+{
+  "language": "Select Language:\n\nChoose your preferred language:",
+  "welcome": "Hello!\n\nChoose your mood and I'll pick a movie:",
+  "cry_films": "Movies to cry:\n\n{film}",
+  "laugh_films": "Movies to laugh:\n\n{film}",
+  "nostalgic_films": "Movies to feel nostalgic:\n\n{film}",
+  "happy_films": "Movies to feel happy:\n\n{film}",
+  "help": "Bot Help:\n\n• Choose mood from menu\n• Click 'Another movie' for different movie in same category\n• Use buttons for navigation\n\nCommands:\n/start - main menu\n/help - help\n/about - about bot\n/lang - change language",
+  "about": "About bot:\n\nMovie recommendation bot by mood\nCreated for group 8341 project\n\nUse buttons to choose movies!"
+}

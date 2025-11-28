@@ -1,0 +1,63 @@
+{
+  "language": {
+    "text": "language",
+    "replies": {
+      "russian": "switch_rus",
+      "english": "switch_eng"
+    }
+  },
+  "welcome": {
+    "text": "welcome",
+    "replies": {
+      "cry": "cry",
+      "laugh": "laugh",
+      "nostalgic": "nostalgic",
+      "happy": "happy",
+      "language": "language"
+    }
+  },
+  "cry": {
+    "text": "cry_films",
+    "replies": {
+      "another": "another_cry",
+      "main_menu": "welcome",
+      "language": "language"
+    }
+  },
+  "laugh": {
+    "text": "laugh_films",
+    "replies": {
+      "another": "another_laugh",
+      "main_menu": "welcome",
+      "language": "language"
+    }
+  },
+  "nostalgic": {
+    "text": "nostalgic_films",
+    "replies": {
+      "another": "another_nostalgic",
+      "main_menu": "welcome",
+      "language": "language"
+    }
+  },
+  "happy": {
+    "text": "happy_films",
+    "replies": {
+      "another": "another_happy",
+      "main_menu": "welcome",
+      "language": "language"
+    }
+  },
+  "help": {
+    "text": "help",
+    "replies": {
+      "main_menu": "welcome"
+    }
+  },
+  "about": {
+    "text": "about",
+    "replies": {
+      "main_menu": "welcome"
+    }
+  }
+}
